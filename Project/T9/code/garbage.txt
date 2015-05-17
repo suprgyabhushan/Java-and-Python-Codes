@@ -1,0 +1,21 @@
+#def suffix(self):
+	#	root=dict()
+	#	for word in self.words:
+	#		return word
+			
+			'''current_dict = root
+			for letter in word:	    	
+				current_dict = current_dict.setdefault(letter, {})
+		return current_dict
+		 	
+
+	def find_prefix(self,word):
+		current_dict = root
+		print current_dict
+		for letter in word:
+			if letter in current_dict:
+				#current_dict = current_dict[letter]
+				return True
+			else:
+				return False'''
+
