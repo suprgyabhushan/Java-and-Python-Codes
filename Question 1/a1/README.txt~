@@ -1,7 +1,0 @@
-Source Files
-------------
-money1.py
-jugs1.py
-power_product.py: Stand-alone implementation of power product which doesn't use tree or bfs modules
-tree2.py: Tree module used by jugs1.py
-README.txt: This file
