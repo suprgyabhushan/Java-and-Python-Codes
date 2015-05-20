@@ -1,4 +1,0 @@
-parents, babies = (1, 1)
-while babies < 100:
-    print 'The fibo series is {0}'.format(babies)
-    parents, babies = (babies, parents + babies)
